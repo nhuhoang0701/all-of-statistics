@@ -5,3 +5,5 @@ This repository contains my personal notes and complete solutions from my self-s
 Main definitions, ideas, and theorems from each chapter are included in the notes, but examples are usually skipped.  This repository is not intended as a replacement for the book.
 
 Each included chapter has a Jupyter notebook including notes on the chapter and exercise solutions -- notes and solutions using LaTeX in markdown and executable Python.
+
+For solutions posted from CMU site, please refer here: [link](https://www.stat.cmu.edu/~larry/=stat325.02/)
